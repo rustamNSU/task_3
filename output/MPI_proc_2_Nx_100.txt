@@ -1,0 +1,7 @@
+-- 2D-heat equation solver --
+   Nx = 100
+   Ny = 100
+   t  = 0.999988
+   time_iter. = 5066
+   rel_error = 2.96595e-08
+   time = 0.480729
